@@ -1,4 +1,4 @@
-# 👋 Salut, je suis Habibou !
+# 🚀 Data Scientist & Data Analyst turning data into insights
 
 ## 📊 Mes Statistiques GitHub
 
