@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://github.com/kyechan99/capsule-render/blob/output/svg?type=waving&color=gradient&text=Data%20Scientist%20%26%20Analyst&height=100&section=header"/>
+  <img height="200" src="https://github.com/Habibou/capsule-render/blob/output/svg?type=waving&color=gradient&text=Data%20Scientist%20%26%20Analyst&height=100&section=header"/>
 </div>
 
 # 🚀 Data Scientist & Data Analyst turning data into insights
